@@ -16,4 +16,4 @@ Our aim is to create a new simple open protocol based on the IRC to provide safe
   3. Implement message encryption/decryption/verification via GnuPG
   4. Implement an easy way to add a contact via QR-code(?)
   4. Implement a possibillity to make a direct connection to client nodes
-  5. Implement a possibillity to route contact's list traffic through the client node
+  5. Implement a possibillity to route contacts list's traffic through the client node
